@@ -1,1 +1,6 @@
-Message from main branch
+<<<<<<< HEAD
+Welcome to Zakir's  main branch
+=======
+And welcome to Zakir's feature branch it will be LEGEN wait for it
+.................................................DARY
+>>>>>>> feature-greeting
